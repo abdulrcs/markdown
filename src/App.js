@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
 import marked from 'marked';
-const placeholder = `# Welcome to my React Markdown Previewer!
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
+const placeholder = `# Welcome to Markdown Previewer!
 ## This is a sub-heading...
 ### And here's some other cool stuff:
 
 Heres some code, \`<div></div>\`, between 2 backticks.
-
 \`\`\`
 // this is multi-line code:
 
@@ -26,13 +26,6 @@ And feel free to go crazy ~~crossing stuff out~~.
 There's also [links](https://www.freecodecamp.com), and
 > Block Quotes!
 
-And if you want to get really crazy, even tables:
-
-Wild Header | Crazy Header | Another Header?
------------- | ------------- | -------------
-Your content can | be here, and it | can be here....
-And here. | Okay. | I think we get it.
-
 - And of course there are lists.
   - Some are bulleted.
      - With different indentation levels.
@@ -42,8 +35,7 @@ And here. | Okay. | I think we get it.
 1. And there are numbererd lists too.
 1. Use just 1s if you want!
 1. And last but not least, let's not forget embedded images:
-
-![React Logo w/ Text](https://goo.gl/Umyytc)
+![React Logo](https://nagarsoftwaresolution.com/wp-content/uploads/2020/02/icons8-react-native-256.png)
 `;
 class App extends React.Component
 {
@@ -69,7 +61,7 @@ class App extends React.Component
     return (
       <div>
         <div className="row App vh-100 vw-100">
-        <textarea className="col bg-light " value={this.state.input} id="editor" onChange={this.handleChange}/>
+        <textarea className="col bg-light" value={this.state.input} id="editor" onChange={this.handleChange}/>
           <div className="col bg-dark text-white"> 
           <div id="preview"
               dangerouslySetInnerHTML={{
