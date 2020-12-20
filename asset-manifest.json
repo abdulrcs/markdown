@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/markdown-previewer/static/css/main.bfd8e844.chunk.css",
-    "main.js": "/markdown-previewer/static/js/main.5a0d5ac4.chunk.js",
-    "main.js.map": "/markdown-previewer/static/js/main.5a0d5ac4.chunk.js.map",
-    "runtime-main.js": "/markdown-previewer/static/js/runtime-main.d95c2451.js",
-    "runtime-main.js.map": "/markdown-previewer/static/js/runtime-main.d95c2451.js.map",
-    "static/js/2.8aef6810.chunk.js": "/markdown-previewer/static/js/2.8aef6810.chunk.js",
-    "static/js/2.8aef6810.chunk.js.map": "/markdown-previewer/static/js/2.8aef6810.chunk.js.map",
-    "static/js/3.267c46d6.chunk.js": "/markdown-previewer/static/js/3.267c46d6.chunk.js",
-    "static/js/3.267c46d6.chunk.js.map": "/markdown-previewer/static/js/3.267c46d6.chunk.js.map",
+    "main.css": "/markdown-previewer/static/css/main.8959b2c8.chunk.css",
+    "main.js": "/markdown-previewer/static/js/main.58c3d08b.chunk.js",
+    "main.js.map": "/markdown-previewer/static/js/main.58c3d08b.chunk.js.map",
+    "runtime-main.js": "/markdown-previewer/static/js/runtime-main.5770546d.js",
+    "runtime-main.js.map": "/markdown-previewer/static/js/runtime-main.5770546d.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/markdown-previewer/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7b612d5d.chunk.js": "/markdown-previewer/static/js/2.7b612d5d.chunk.js",
+    "static/js/2.7b612d5d.chunk.js.map": "/markdown-previewer/static/js/2.7b612d5d.chunk.js.map",
+    "static/js/3.c08da285.chunk.js": "/markdown-previewer/static/js/3.c08da285.chunk.js",
+    "static/js/3.c08da285.chunk.js.map": "/markdown-previewer/static/js/3.c08da285.chunk.js.map",
     "index.html": "/markdown-previewer/index.html",
-    "static/css/main.bfd8e844.chunk.css.map": "/markdown-previewer/static/css/main.bfd8e844.chunk.css.map",
-    "static/js/2.8aef6810.chunk.js.LICENSE.txt": "/markdown-previewer/static/js/2.8aef6810.chunk.js.LICENSE.txt"
+    "static/css/2.20aa2d7b.chunk.css.map": "/markdown-previewer/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.8959b2c8.chunk.css.map": "/markdown-previewer/static/css/main.8959b2c8.chunk.css.map",
+    "static/js/2.7b612d5d.chunk.js.LICENSE.txt": "/markdown-previewer/static/js/2.7b612d5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d95c2451.js",
-    "static/js/2.8aef6810.chunk.js",
-    "static/css/main.bfd8e844.chunk.css",
-    "static/js/main.5a0d5ac4.chunk.js"
+    "static/js/runtime-main.5770546d.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7b612d5d.chunk.js",
+    "static/css/main.8959b2c8.chunk.css",
+    "static/js/main.58c3d08b.chunk.js"
   ]
 }
